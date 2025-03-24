@@ -1,4 +1,5 @@
 # Oi! Eu sou a Maju 👋✨  
+*The voyage of discovery is not in seeking new landscapes but in having new eyes.*
 
 💡 **Apaixonada por tecnologia, design e processos criativos**  
 🚀 Explorando desenvolvimento web, UX/UI e engenharia de software  
