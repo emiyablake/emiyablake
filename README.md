@@ -1,20 +1,20 @@
-# Oi! Eu sou a Maju 👋✨  
+# Hey! I'm Maju 👋✨  
 *The voyage of discovery is not in seeking new landscapes but in having new eyes.*
 
-💡 **Apaixonada por tecnologia, design e processos criativos**  
-🚀 Explorando desenvolvimento web, UX/UI e engenharia de software  
-🎲 Fã de RPGs, games e narrativas interativas  
+💡 **Passionate about technology, design, and creative processes**  
+🚀 Exploring software engineering, web developmen, UX/UI and game developmen
+🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
-### 🛠️ Tecnologias & Ferramentas  
+### 🛠️ Technologies & Tools  
 🔹 **Front-end:** HTML, CSS, JavaScript, React  
-🔹 **Back-end:** Node.js, Express, MongoDB  
-🔹 **Outros:** Git, Tailwind, Figma  
+🔹 **Back-end:** Node.js, Python, Express, MongoDB, SQL
+🔹 **Others:** Git, Figma, Agile methodologies
 
-### 🌱 No momento, estou aprendendo  
-- Next.js + Tailwind para melhorar a performance e UI das minhas aplicações  
-- Arquitetura de software e boas práticas de desenvolvimento  
+### 🌱 Currently Learning  
+- Next.js + Tailwind to improve UI and performance  
+- Software architecture and best coding practices    
 
-📫 **Quer trocar uma ideia?** Me chama no [LinkedIn](#) ou dá um alô por aqui! 🚀✨  
+📫 **Want to chat?** Connect with me on [LinkedIn](#www.linkedin.com/in/mara-júlia-ávila-553154249)  or drop a message here! 🚀✨
 <!--
 **emiyablake/emiyablake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
