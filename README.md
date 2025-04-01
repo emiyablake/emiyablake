@@ -1,5 +1,5 @@
 # Hey! I'm Maju 👋✨  
-*The voyage of discovery is not in seeking new landscapes but in having new eyes.*
+*The voyage of discovery is not in seeking new landscapes but in having new eyes.* - Marcel Proust
 
 💡 **Passionate about technology, design, and creative processes**  
 🚀 Exploring software engineering, web developmen, UX/UI and game developmen
