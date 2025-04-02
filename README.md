@@ -12,7 +12,7 @@
 
 ### 🌱 Currently Learning  
 - Next.js + Tailwind to improve UI and performance  
-- Software architecture and best coding practices    
+- Game design + Unity
 
 📫 **Want to chat?** Connect with me on [LinkedIn](#www.linkedin.com/in/mara-júlia-ávila-553154249)  or drop a message here! 🚀✨
 <!--
