@@ -3,6 +3,7 @@
 
 💡 **Passionate about technology, games, design, and creative processes**  
 🚀 Exploring software engineering, web development, UX/UI and game development  
+
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
@@ -14,7 +15,7 @@
 - Next.js + Tailwind to improve UI and performance  
 - Game design + Unity  
 
-📫 **Want to chat?** Connect with me on [LinkedIn](#www.linkedin.com/in/mara-júlia-ávila-553154249)  or drop a message here! 🚀✨
+📫 **Want to chat?** Connect with me on [LinkedIn](www.linkedin.com/in/mara-júlia-ávila-553154249)  or drop a message here! 🚀✨
 <!--
 **emiyablake/emiyablake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
