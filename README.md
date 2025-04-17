@@ -3,7 +3,6 @@
 
 💡 **Passionate about technology, games, design, and creative processes**  
 🚀 Exploring software engineering, web development, UX/UI and game development  
-
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
