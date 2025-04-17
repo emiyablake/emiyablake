@@ -1,18 +1,18 @@
 # Hey! I'm Maju 👋✨  
-*The voyage of discovery is not in seeking new landscapes but in having new eyes.* - Marcel Proust
+*The voyage of discovery is not in seeking new landscapes but in having new eyes.* - Marcel Proust  
 
 💡 **Passionate about technology, games, design, and creative processes**  
-🚀 Exploring software engineering, web development, UX/UI and game development
+🚀 Exploring software engineering, web development, UX/UI and game development  
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
 🔹 **Front-end:** HTML, CSS, JavaScript, React  
-🔹 **Back-end:** Node.js, Python, Express, MongoDB, SQL
-🔹 **Others:** Git, Figma, Agile methodologies
+🔹 **Back-end:** Node.js, Python, Express, MongoDB, SQL  
+🔹 **Others:** Git, Figma, Agile methodologies  
 
 ### 🌱 Currently Learning  
 - Next.js + Tailwind to improve UI and performance  
-- Game design + Unity
+- Game design + Unity  
 
 📫 **Want to chat?** Connect with me on [LinkedIn](#www.linkedin.com/in/mara-júlia-ávila-553154249)  or drop a message here! 🚀✨
 <!--
