@@ -7,7 +7,7 @@
 
 ### 🛠️ Technologies & Tools  
 🔹 **Front-end:** HTML, CSS, JavaScript, React  
-🔹 **Back-end:** Node.js, Python, Express, MongoDB, SQL  
+🔹 **Back-end & Database:** Node.js, Python, Express, MongoDB, SQL  
 🔹 **Others:** Git, Figma, Agile methodologies  
 
 ### 🌱 Currently Learning  
