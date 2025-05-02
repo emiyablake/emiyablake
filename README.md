@@ -6,7 +6,7 @@
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
-🔹 **Front-end:** HTML, CSS, JavaScript, React  
+🔹 **Front-end:** HTML, CSS, JavaScript, React, BootStrap  
 🔹 **Back-end & Database:** Node.js, Python, Express, MongoDB, SQL  
 🔹 **Others:** Git, Figma, Agile methodologies  
 
