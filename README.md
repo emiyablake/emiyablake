@@ -1,13 +1,13 @@
 # Hey! I'm Maju 👋✨  
-*The voyage of discovery is not in seeking new landscapes but in having new eyes.* - Marcel Proust  
+*The voyage of discovery is not in seeking new landscapes but in having new eyes. - Marcel Proust*   
 
-💡 **Passionate about technology, games, design, and creative processes**  
+💡 **Passionate about technology, games, design, animation and creative processes**  
 🚀 Exploring software engineering, web development, UX/UI and game development  
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
 🔹 **Front-end:** HTML, CSS, JavaScript, React, BootStrap  
-🔹 **Back-end & Database:** Node.js, Python, Express, MongoDB, SQL  
+🔹 **Back-end & Database:** Node.js, Python, Lua, Express, MongoDB, SQL  
 🔹 **Others:** Git, Figma, Agile methodologies  
 
 ### 🌱 Currently Learning  
