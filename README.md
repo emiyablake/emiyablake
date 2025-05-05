@@ -12,9 +12,10 @@
 
 ### 🌱 Currently Learning  
 - Next.js + Tailwind to improve UI and performance  
-- Game design + Unity  
+- Game design + Unity to make my own game projects  
+- Mandarin to better communicate with the world  
 
-📫 **Want to chat?** Connect with me on [LinkedIn](https://www.linkedin.com/in/mara-júlia-ávila-553154249)  or drop a message here! 🚀✨
+📫 **Want to chat?** Connect with me on [LinkedIn](https://www.linkedin.com/in/mara-júlia-ávila)  or drop a message here! 🚀✨
 <!--
 **emiyablake/emiyablake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
