@@ -6,14 +6,13 @@
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
-🔹 **Front-end:** HTML, CSS, JavaScript, React, BootStrap  
+🔹 **Front-end:** HTML, CSS, JavaScript, React, BootStrap, Next.js, Tailwind
 🔹 **Back-end & Database:** Node.js, Python, Lua, Express, MongoDB, SQL  
-🔹 **Others:** Git, Figma, Agile methodologies  
+🔹 **Game-Dev:** Unity, Game design, Gameplay programming
+🔹 **Others:** Git, Figma, Agile methodologies, 
 
-### 🌱 Currently Learning  
-- Next.js + Tailwind to improve UI and performance  
-- Game design + Unity to make my own game projects  
-- Mandarin to better communicate with the world  
+### 🌱 Currently working on  
+- No Andar de Cima
 
 📫 **Want to chat?** Connect with me on [LinkedIn](https://www.linkedin.com/in/mara-júlia-ávila)! 🚀✨
 <!--
