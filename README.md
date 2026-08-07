@@ -6,10 +6,10 @@
 🎲 RPG, video games, board games, illustration and 3D modeling enthusiast   
 
 ### 🛠️ Technologies & Tools  
-🔹 **Front-end:** HTML, CSS, JavaScript, React, BootStrap, Next.js, Tailwind 
+🔹 **Front-end:** HTML, CSS, JavaScript, React, BootStrap, Next.js, Tailwind  
 🔹 **Back-end & Database:** Node.js, Python, Lua, Express, MongoDB, SQL  
-🔹 **Game-Dev:** Unity, Game design, Gameplay programming 
-🔹 **Others:** Git, Figma, Agile methodologies, 
+🔹 **Game-Dev:** Unity, Game design, Gameplay programming  
+🔹 **Others:** Git, Figma, Agile methodologies  
 
 ### 🌱 Currently working on  
 - No Andar de Cima 
