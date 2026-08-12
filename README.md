@@ -1,4 +1,4 @@
-# Hey! I'm Maju 👋✨  
+# Hey! I'm Emi 👋✨  
 *The voyage of discovery is not in seeking new landscapes but in having new eyes. - Marcel Proust*   
 
 💡 **Passionate about technology, games, design, animation and creative processes**  
